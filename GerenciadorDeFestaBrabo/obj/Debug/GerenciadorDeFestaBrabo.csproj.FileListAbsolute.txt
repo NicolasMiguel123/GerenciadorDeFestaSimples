@@ -1,0 +1,10 @@
+C:\Users\nicolas.mssilva1\Desktop\Nicolas\source\repos\GerenciadorDeFestaBrabo\GerenciadorDeFestaBrabo\bin\Debug\GerenciadorDeFestaBrabo.exe.config
+C:\Users\nicolas.mssilva1\Desktop\Nicolas\source\repos\GerenciadorDeFestaBrabo\GerenciadorDeFestaBrabo\bin\Debug\GerenciadorDeFestaBrabo.exe
+C:\Users\nicolas.mssilva1\Desktop\Nicolas\source\repos\GerenciadorDeFestaBrabo\GerenciadorDeFestaBrabo\bin\Debug\GerenciadorDeFestaBrabo.pdb
+C:\Users\nicolas.mssilva1\Desktop\Nicolas\source\repos\GerenciadorDeFestaBrabo\GerenciadorDeFestaBrabo\obj\Debug\GerenciadorDeFestaBrabo.csproj.AssemblyReference.cache
+C:\Users\nicolas.mssilva1\Desktop\Nicolas\source\repos\GerenciadorDeFestaBrabo\GerenciadorDeFestaBrabo\obj\Debug\GerenciadorDeFestaBrabo.Form1.resources
+C:\Users\nicolas.mssilva1\Desktop\Nicolas\source\repos\GerenciadorDeFestaBrabo\GerenciadorDeFestaBrabo\obj\Debug\GerenciadorDeFestaBrabo.Properties.Resources.resources
+C:\Users\nicolas.mssilva1\Desktop\Nicolas\source\repos\GerenciadorDeFestaBrabo\GerenciadorDeFestaBrabo\obj\Debug\GerenciadorDeFestaBrabo.csproj.GenerateResource.cache
+C:\Users\nicolas.mssilva1\Desktop\Nicolas\source\repos\GerenciadorDeFestaBrabo\GerenciadorDeFestaBrabo\obj\Debug\GerenciadorDeFestaBrabo.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.mssilva1\Desktop\Nicolas\source\repos\GerenciadorDeFestaBrabo\GerenciadorDeFestaBrabo\obj\Debug\GerenciadorDeFestaBrabo.exe
+C:\Users\nicolas.mssilva1\Desktop\Nicolas\source\repos\GerenciadorDeFestaBrabo\GerenciadorDeFestaBrabo\obj\Debug\GerenciadorDeFestaBrabo.pdb
