@@ -32,16 +32,16 @@
             this.pibLogo = new System.Windows.Forms.PictureBox();
             this.lblTitulo = new System.Windows.Forms.Label();
             this.grbConsulta = new System.Windows.Forms.GroupBox();
+            this.lblResultado = new System.Windows.Forms.Label();
             this.pibResultado = new System.Windows.Forms.PictureBox();
             this.btnConsultar = new System.Windows.Forms.Button();
             this.txbNomeconsulta = new System.Windows.Forms.TextBox();
             this.lblNomeConsulta = new System.Windows.Forms.Label();
             this.grbCadastro = new System.Windows.Forms.GroupBox();
-            this.lblResultado = new System.Windows.Forms.Label();
+            this.libConvidados = new System.Windows.Forms.ListBox();
+            this.btnCadastrar = new System.Windows.Forms.Button();
             this.txbCadastro = new System.Windows.Forms.TextBox();
             this.lblNomeCadastro = new System.Windows.Forms.Label();
-            this.btnCadastrar = new System.Windows.Forms.Button();
-            this.libConvidados = new System.Windows.Forms.ListBox();
             ((System.ComponentModel.ISupportInitialize)(this.pibLogo)).BeginInit();
             this.grbConsulta.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pibResultado)).BeginInit();
@@ -82,6 +82,15 @@
             this.grbConsulta.TabIndex = 2;
             this.grbConsulta.TabStop = false;
             this.grbConsulta.Text = "Consulta";
+            // 
+            // lblResultado
+            // 
+            this.lblResultado.AutoSize = true;
+            this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResultado.Location = new System.Drawing.Point(69, 144);
+            this.lblResultado.Name = "lblResultado";
+            this.lblResultado.Size = new System.Drawing.Size(0, 18);
+            this.lblResultado.TabIndex = 8;
             // 
             // pibResultado
             // 
@@ -131,14 +140,23 @@
             this.grbCadastro.TabStop = false;
             this.grbCadastro.Text = "Cadastro";
             // 
-            // lblResultado
+            // libConvidados
             // 
-            this.lblResultado.AutoSize = true;
-            this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblResultado.Location = new System.Drawing.Point(69, 144);
-            this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(0, 18);
-            this.lblResultado.TabIndex = 8;
+            this.libConvidados.FormattingEnabled = true;
+            this.libConvidados.Location = new System.Drawing.Point(34, 124);
+            this.libConvidados.Name = "libConvidados";
+            this.libConvidados.Size = new System.Drawing.Size(263, 95);
+            this.libConvidados.TabIndex = 11;
+            // 
+            // btnCadastrar
+            // 
+            this.btnCadastrar.Location = new System.Drawing.Point(60, 78);
+            this.btnCadastrar.Name = "btnCadastrar";
+            this.btnCadastrar.Size = new System.Drawing.Size(230, 25);
+            this.btnCadastrar.TabIndex = 9;
+            this.btnCadastrar.Text = "Cadastrar";
+            this.btnCadastrar.UseVisualStyleBackColor = true;
+            this.btnCadastrar.Click += new System.EventHandler(this.btnCadastrar_Click);
             // 
             // txbCadastro
             // 
@@ -155,24 +173,6 @@
             this.lblNomeCadastro.Size = new System.Drawing.Size(38, 13);
             this.lblNomeCadastro.TabIndex = 9;
             this.lblNomeCadastro.Text = "Nome:";
-            // 
-            // btnCadastrar
-            // 
-            this.btnCadastrar.Location = new System.Drawing.Point(60, 78);
-            this.btnCadastrar.Name = "btnCadastrar";
-            this.btnCadastrar.Size = new System.Drawing.Size(230, 25);
-            this.btnCadastrar.TabIndex = 9;
-            this.btnCadastrar.Text = "Cadastrar";
-            this.btnCadastrar.UseVisualStyleBackColor = true;
-            this.btnCadastrar.Click += new System.EventHandler(this.btnCadastrar_Click);
-            // 
-            // libConvidados
-            // 
-            this.libConvidados.FormattingEnabled = true;
-            this.libConvidados.Location = new System.Drawing.Point(34, 124);
-            this.libConvidados.Name = "libConvidados";
-            this.libConvidados.Size = new System.Drawing.Size(263, 95);
-            this.libConvidados.TabIndex = 11;
             // 
             // Form1
             // 
